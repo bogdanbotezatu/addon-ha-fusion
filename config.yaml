@@ -35,4 +35,4 @@ ports:
   8099/tcp: null
 
 # docker hub
-image: bogdanbotezatu/addon-ha-fusion-{arch}
+image: bbotezatu/addon-ha-fusion-{arch}
